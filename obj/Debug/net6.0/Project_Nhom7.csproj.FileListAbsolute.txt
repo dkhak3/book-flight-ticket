@@ -1,0 +1,15 @@
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\bin\Debug\net6.0\Project_Nhom7.exe
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\bin\Debug\net6.0\Project_Nhom7.deps.json
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\bin\Debug\net6.0\Project_Nhom7.runtimeconfig.json
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\bin\Debug\net6.0\Project_Nhom7.dll
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\bin\Debug\net6.0\Project_Nhom7.pdb
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\Project_Nhom7.csproj.AssemblyReference.cache
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\Project_Nhom7.GeneratedMSBuildEditorConfig.editorconfig
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\Project_Nhom7.AssemblyInfoInputs.cache
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\Project_Nhom7.AssemblyInfo.cs
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\Project_Nhom7.csproj.CoreCompileInputs.cache
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\Project_Nhom7.dll
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\refint\Project_Nhom7.dll
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\Project_Nhom7.pdb
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\Project_Nhom7.genruntimeconfig.cache
+D:\HỆ CĐ\Học Kì 2\HK2 - CẤU TRÚC DỮ LIỆU & GIẢI THUẬT\HK2-CTGT_GT\Project\obj\Debug\net6.0\ref\Project_Nhom7.dll
